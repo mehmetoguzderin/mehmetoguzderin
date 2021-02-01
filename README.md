@@ -1,4 +1,4 @@
-| **Oguz** | **𐰆𐰍𐰔** |
+| **Oguz** | **𐰆𐰍𐰕** |
 |:---------|---------:|
 
 Linkedin: [mehmetoguzderin](https://linkedin.com/in/mehmetoguzderin)
