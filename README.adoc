@@ -26,6 +26,8 @@ Oguz うから うかち ウカラ ウカチ
 
 // 深沈丁零
 
+DerinOguz
+
 OguzDerin
 
 照中　親族
