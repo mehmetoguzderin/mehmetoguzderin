@@ -1,6 +1,6 @@
 **LinkedIn**: https://linkedin.com/in/mehmetoguzderin[mehmetoguzderin]
 
-**Mastodon**: https://mastodon.social/@mehmetoguzderin[@mehmetoguzderin@mastodon.social]
+**Mastodon**: https://mastodon.social/@mehmetoguzderin[@mehmetoguzderin@mastodon.social] <a rel="me" href="https://mastodon.social/@mehmetoguzderin">Mastodon</a>
 
 [cols="^"]
 |===
