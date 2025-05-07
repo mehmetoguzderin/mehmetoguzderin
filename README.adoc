@@ -1,6 +1,9 @@
 Scopus ID
 https://www.scopus.com/authid/detail.uri?authorId=57433685000[57433685000]
 
+.Details
+[%collapsible]
+====
 ORCID
 https://orcid.org/0000-0002-6264-3509
 
@@ -25,3 +28,4 @@ https://linkedin.com/in/mehmetoguzderin[mehmetoguzderin]
 デリン　メフメトオグズ
 
 데린 메흐메트오구즈
+====
